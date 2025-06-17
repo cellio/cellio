@@ -5,7 +5,7 @@ Primary technologies: Ruby on Rails, Javascript, HTML/SCSS.
 I also use a private repo here to manage my [personal web site](https://cellio.org/).
 
 Ways to reach me: <a rel="me" href="https://indieweb.social/@cellio">Fediverse (Mastodon)</a>,
-Discord (cellio#8077), email (github user name at pobox dot com).
+Discord (cellio#8077), email (gh-contact at (github user name) dot org).
 
 
 
